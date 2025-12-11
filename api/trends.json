@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-11T19:17:04.722883+08:00",
-  "total_titles_processed": 1830,
+  "generated_at": "2025-12-11T20:39:01.965335+08:00",
+  "total_titles_processed": 1933,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 51,
       "titles": [
+        {
+          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
+          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时23分 ~ 20时39分]"
+        },
         {
           "title": "高市早苗求见特朗普",
           "url": "https://news.ifeng.com/c/8oz1gOzpqEt",
@@ -43,17 +54,6 @@
           "time_info": "[00时05分 ~ 07时23分]"
         },
         {
-          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 19时17分]"
-        },
-        {
           "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
           "url": "https://www.cls.cn/detail/2225986",
           "source": "财联社热门",
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时52分 ~ 16时26分]"
+        },
+        {
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时23分 ~ 20时39分]"
         },
         {
           "title": "特朗普：被扣押油轮上的石油归美国了",
@@ -90,6 +101,18 @@
           "time_info": "[00时34分 ~ 00时35分]"
         },
         {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 20时39分]"
+        },
+        {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
           "url": "https://flash.jin10.com/detail/20251211005314935800",
           "source": "金十数据",
@@ -110,17 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 19时17分]"
         },
         {
           "title": "美国总统特朗普：听苹果(AAPL.O)CEO库克说，招聘人才很难。",
@@ -167,17 +179,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时23分]"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 19时17分]"
         },
         {
           "title": "“特朗普黄金卡”开始接受申请",
@@ -610,8 +611,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时52分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[10时52分 ~ 20时39分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -882,11 +883,12 @@
           "url": "https://www.zhihu.com/question/1980552349165564560",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 20时39分]"
         },
         {
           "title": "消息人士：Google Play正调整政策，旨在让应用开发者更便捷地将用户引导至其他渠道并自主选择收费模式，但据悉这些调整效果未达预期。",
@@ -1018,8 +1020,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时05分 ~ 19时17分]"
+          "appearance_count": 26,
+          "time_info": "[00时05分 ~ 20时39分]"
         }
       ]
     }
