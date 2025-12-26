@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T19:17:05.168850+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2025-12-26T20:36:06.291488+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时22分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[11时22分 ~ 20时36分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -70,6 +70,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时14分 ~ 07时17分]"
+        },
+        {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 20时36分]"
         },
         {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
@@ -132,17 +143,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 04时20分]"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时17分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
