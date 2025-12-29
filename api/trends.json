@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T21:36:05.233931+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2025-12-29T22:19:42.918215+08:00",
+  "total_titles_processed": 1769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 83,
       "titles": [
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -32,6 +32,18 @@
           "time_info": "[11时46分 ~ 17时27分]"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时23分 ~ 22时19分]"
+        },
+        {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
           "url": "https://wallstreetcn.com/articles/3762196",
           "source": "华尔街见闻",
@@ -54,18 +66,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 05时16分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时23分 ~ 21时36分]"
         },
         {
           "title": "乌克兰总统办公室：乌克兰总统泽连斯基和美国总统特朗普将与欧洲领导人举行电话会议。",
@@ -867,6 +867,17 @@
           "time_info": "17时27分"
         },
         {
+          "title": "泽连斯基列举与特朗普会晤成果：美方确认安全保障协议将提交国会，战后经济重建方案获推进",
+          "url": "https://flash.jin10.com/detail/20251229213129062800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "美国总统特朗普：今天与泽连斯基和普京讨论了扎波罗热核电站问题，普京正与乌克兰合作，争取开放扎波罗热核电站，热核电站可以很快开放，目前状况良好。",
           "url": "https://flash.jin10.com/detail/20251229061056086800",
           "source": "金十数据",
@@ -969,7 +980,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
@@ -994,6 +1005,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 05时16分]"
+        },
+        {
+          "title": "受科技股拖累，美股指期货走低，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "美股股指期货周一基本平开。",
@@ -1030,6 +1052,17 @@
           "time_info": "20时38分"
         },
         {
+          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2243270",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "美股三大股指期货走低，标普500指数期货下跌0.3%，纳斯达克100指数期货下跌0.5%，道琼斯指数期货下跌0.1%。",
           "url": "https://flash.jin10.com/detail/20251229170123670800",
           "source": "金十数据",
@@ -1056,8 +1089,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 21时36分]"
+          "appearance_count": 5,
+          "time_info": "[19时17分 ~ 22时19分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
@@ -1068,8 +1101,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 21时36分]"
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 22时19分]"
         }
       ]
     },
