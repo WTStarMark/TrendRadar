@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T19:17:13.234714+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2025-12-31T20:36:46.422931+08:00",
+  "total_titles_processed": 1709,
   "failed_sources": [],
   "trends": [
     {
@@ -176,8 +176,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 20时36分]"
         },
         {
           "title": "周二（12月30日），降息赢家指数跌0.33%，报99.34点。 “特朗普关税输家”指数跌0.70%，报111.29点。 “特朗普金融指数”跌0.60%，报173.74点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.97%，报15.49点。",
@@ -255,7 +255,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -331,8 +331,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时17分 ~ 19时17分]"
+          "appearance_count": 20,
+          "time_info": "[07时17分 ~ 20时36分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
