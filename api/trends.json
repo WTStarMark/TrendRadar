@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T12:45:52.530415+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-01-01T13:24:58.258143+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 13时24分]"
         },
         {
           "title": "美国总统特朗普宣布：从芝加哥、洛杉矶、波特兰撤走国民警卫队。",
@@ -46,6 +46,19 @@
           "time_info": "[03时14分 ~ 07时17分]"
         },
         {
+          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
+          "url": "https://flash.jin10.com/detail/20260101113737125800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时48分 ~ 13时24分]"
+        },
+        {
           "title": "特朗普称“凯旋门”将于两个月内开建",
           "url": "https://flash.jin10.com/detail/20260101010133280800",
           "source": "金十数据",
@@ -57,18 +70,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时16分 ~ 03时14分]"
-        },
-        {
-          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
-          "url": "https://flash.jin10.com/detail/20260101113737125800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时45分]"
         },
         {
           "title": "委内瑞拉Orinoco Belt的石油产量两周锐减25%，特朗普政府的封锁造成严重威胁",
@@ -252,8 +253,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 13时24分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
@@ -397,8 +398,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 13时24分]"
         }
       ]
     },
