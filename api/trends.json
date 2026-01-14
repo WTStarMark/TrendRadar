@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T14:30:05.818428+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-01-14T15:23:53.164644+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 99,
+      "match_count": 100,
       "titles": [
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -79,6 +79,18 @@
           "time_info": "[00时28分 ~ 06时19分]"
         },
         {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 15时23分]"
+        },
+        {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
           "url": "https://flash.jin10.com/detail/20260114070919942800",
           "source": "金十数据",
@@ -88,6 +100,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 15时23分]"
+        },
+        {
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 15时23分]"
         },
         {
           "title": "美国总统特朗普：摩根大通CEO戴蒙就调查美联储主席鲍威尔一事谴责司法部，那样做“是错误的”。",
@@ -101,41 +138,17 @@
           "time_info": "06时19分"
         },
         {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
           "source": "财联社热门",
           "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时45分 ~ 14时30分]"
-        },
-        {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时45分 ~ 14时30分]"
-        },
-        {
-          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
-          "url": "https://www.cls.cn/detail/2256871",
-          "source": "财联社热门",
-          "ranks": [
+            11,
             13,
-            10,
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时45分 ~ 14时30分]"
+          "time_info": "[12时44分 ~ 15时23分]"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -281,19 +294,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时19分]"
-        },
-        {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 14时30分]"
         },
         {
           "title": "特朗普参观汽车工厂遭工人辱骂",
@@ -539,7 +539,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -572,7 +572,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -995,6 +995,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "特朗普演讲时突然模仿拜登",
+          "url": "https://www.toutiao.com/trending/7594003113268543524/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "美国总统特朗普：美联储里有个真正的死脑筋。",
           "url": "https://flash.jin10.com/detail/20260114031246667800",
           "source": "金十数据",
@@ -1144,6 +1155,17 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时25分 ~ 15时23分]"
+        },
+        {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
           "url": "https://www.cls.cn/detail/2256863",
           "source": "财联社热门",
@@ -1155,17 +1177,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时18分 ~ 14时30分]"
-        },
-        {
-          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 14时30分]"
         },
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -1320,11 +1331,12 @@
             8,
             9,
             6,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 14时30分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 15时23分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
