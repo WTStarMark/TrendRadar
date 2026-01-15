@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T14:29:32.426493+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-01-15T15:23:47.619193+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[12时38分 ~ 15时23分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -64,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时21分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 15时23分]"
         },
         {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
@@ -76,8 +76,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时21分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 15时23分]"
         },
         {
           "title": "市场消息：美国总统特朗普表示，不知道他（伊朗反对派领袖礼萨·巴列维）在自己国家会如何表现。",
@@ -180,6 +180,19 @@
           "time_info": "09时21分"
         },
         {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时38分 ~ 15时23分]"
+        },
+        {
           "title": "随着美联储主席人选即将确定，特朗普盛赞凯文・哈塞特与凯文・沃什为潜在人选。（路透）",
           "url": "https://wallstreetcn.com/livenews/3037408",
           "source": "华尔街见闻-快讯",
@@ -201,18 +214,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时19分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 14时29分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -862,7 +863,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -936,8 +937,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时21分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 15时23分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
+          "url": "https://www.cls.cn/detail/2258154",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 15时23分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -951,19 +965,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时29分 ~ 06时20分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
-          "url": "https://www.cls.cn/detail/2258154",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时16分 ~ 14时29分]"
         },
         {
           "title": "美股集体低开 携程跌近17%",
@@ -1169,11 +1170,12 @@
             12,
             10,
             15,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[12时38分 ~ 15时23分]"
         },
         {
           "title": "谷歌：即日起，符合条件的美国谷歌AI Pro和AI Ultra订阅用户将在未来一周内陆续获得访问权限。",
