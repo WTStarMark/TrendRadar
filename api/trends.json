@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T18:24:57.832548+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2026-01-27T19:21:31.046627+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
@@ -76,8 +76,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时19分 ~ 18时24分]"
+          "appearance_count": 12,
+          "time_info": "[07时19分 ~ 19时21分]"
         },
         {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
@@ -127,6 +127,20 @@
           "time_info": "[00时31分 ~ 05时21分]"
         },
         {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 19时21分]"
+        },
+        {
           "title": "特朗普为何对韩国加征关税",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%9F%A9%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E",
           "source": "bilibili 热搜",
@@ -159,20 +173,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时28分 ~ 14时31分]"
-        },
-        {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 18时24分]"
         },
         {
           "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
@@ -237,6 +237,17 @@
           "time_info": "[14时31分 ~ 16时29分]"
         },
         {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时21分]"
+        },
+        {
           "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
           "url": "https://www.cls.cn/detail/2270329",
           "source": "财联社热门",
@@ -282,17 +293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时19分]"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时24分]"
         },
         {
           "title": "美国总统特朗普：哈马斯帮助找到最后一具以色列人质的遗体，他们现在必须解除武装。（Axios）",
@@ -745,8 +745,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时19分 ~ 18时24分]"
+          "appearance_count": 12,
+          "time_info": "[07时19分 ~ 19时21分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -945,7 +945,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -1012,7 +1012,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -1022,6 +1022,80 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
+          "url": "https://wallstreetcn.com/livenews/3044110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时27分]"
+        },
+        {
+          "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
+          "url": "https://www.cls.cn/detail/2270429",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 11时45分]"
+        },
+        {
+          "title": "欧盟依据数字市场法案对谷歌的在线搜索和数据共享展开调查。",
+          "url": "https://wallstreetcn.com/livenews/3044662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "欧盟就谷歌违反《数字市场法》法规启动法律程序",
+          "url": "https://flash.jin10.com/detail/20260127183055031800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "欧盟就谷歌违反《数字市场法》法规启动法律程序",
+          "url": "https://wallstreetcn.com/livenews/3044717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "阿里千问最强模型亮相，性能媲美GPT-5.2、Gemini 3 Pro",
+          "url": "https://wallstreetcn.com/livenews/3044091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1092,58 +1166,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
-          "url": "https://wallstreetcn.com/livenews/3044110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时27分]"
-        },
-        {
-          "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
-          "url": "https://www.cls.cn/detail/2270429",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时45分]"
-        },
-        {
-          "title": "欧盟依据数字市场法案对谷歌的在线搜索和数据共享展开调查。",
-          "url": "https://wallstreetcn.com/livenews/3044662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "阿里千问最强模型亮相，性能媲美GPT-5.2、Gemini 3 Pro",
-          "url": "https://wallstreetcn.com/livenews/3044091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
       "match_count": 3,
       "titles": [
@@ -1153,11 +1175,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 18时24分]"
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 19时21分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -1169,8 +1192,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时24分]"
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 19时21分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
@@ -1198,8 +1221,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时24分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时21分]"
         },
         {
           "title": "Hugging Face最新数据显示，Qwen衍生模型数量突破20万，成为全球首个达成此目标的开源大模型。 同时，Qwen系列模型下载量突破10亿次，平均每天被开发者们下载110万次，稳居全球开源大模型TOP1。",
